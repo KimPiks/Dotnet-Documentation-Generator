@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Dotnet Documentation Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "--path \"Dotnet Documentation Generator.xml\""
+    }
+  }
+}
