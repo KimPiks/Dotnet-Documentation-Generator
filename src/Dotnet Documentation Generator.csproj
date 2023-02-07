@@ -11,7 +11,13 @@
 		<ToolCommandName>generate-doc</ToolCommandName>
 		<PackageOutputPath>./nupkg</PackageOutputPath>
 		<PackageId>DotnetDocumentationGenerator</PackageId>
-		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+		<GenerateDocumentationFile>False</GenerateDocumentationFile>
+		<Description>A dotnet tool that generates project markdown documentation based on xml documentation</Description>
+		<Copyright>Kamil Prorok</Copyright>
+		<RepositoryType>git</RepositoryType>
+		<PackageTags>dotnet markdown xml documentation</PackageTags>
+		<PackageProjectUrl>https://github.com/KimPiks/Dotnet-Documentation-Generator</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/KimPiks/Dotnet-Documentation-Generator</RepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
