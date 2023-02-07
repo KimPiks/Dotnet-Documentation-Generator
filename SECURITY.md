@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-Report me on Discord KimPiks#5022 or create an issue https://github.com/KimPiks/MarkdownWriter/issues
+Report me on Discord KimPiks#5022 or create an issue https://github.com/KimPiks/Dotnet-Documentation-Generator/issues
